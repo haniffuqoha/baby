@@ -59,7 +59,7 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklis
 #EXTINF:-1  group-title="BERITA",BeritaSatuworld
 https://b1world.beritasatumedia.com/Beritasatu/B1World_960x540.m3u8
 #EXTINF:-1  group-title="BERITA",IDX Channel
-https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_499968=8-mp4a_66000_eng=2.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1700002963a49da13542e0726b7bb758dfdded94c48ea6229c48edefa9ec1c9f
 #EXTINF:-1  group-title="BERITA",The Indonesian Chanel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/03.m3u8
 #EXTINF:-1  group-title="BERITA",JAKARTA GLOBE NEWS CHANNEL
@@ -311,7 +311,18 @@ https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b1200000.m3u
 http://203.77.246.50:5000/udp/239.1.2.224:5000
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY
 http://iptv12k.com:35461/80301051401/878900/2063
-##https://link.zozotv.xyz/@nasanash/Lifetime8899/124
+#EXTINF:0 tvg-id="" group-title="KNOWLEDGE",Investigation Discovery [98]
+https://list.iptvcat.com/my_list/s/08b292d6d13d46fbe21ac242d2d20c97.m3u8
+#EXTINF:0 tvg-id="" group-title="KNOWLEDGE",Discovery Kids [97]
+https://list.iptvcat.com/my_list/s/eed6670ab28ee3e41f3d9f5cf71494f6.m3u8
+#EXTINF:0 tvg-id="" group-title="KNOWLEDGE",Discovery Science HD [99]
+https://list.iptvcat.com/my_list/s/5c9be065618bd5083383c0d6ac8c2f4b.m3u8
+#EXTINF:0 tvg-id="" group-title="KNOWLEDGE",Discovery Turbo HD [89]
+https://list.iptvcat.com/my_list/s/bda659be3ffc324a55f1617454396549.m3u8
+#EXTINF:0 tvg-id="" group-title="KNOWLEDGE",Discovery World HD [97]
+https://list.iptvcat.com/my_list/s/cfbfcffcd4d556dba117be04f278a899.m3u8
+#EXTINF:0 tvg-id="" group-title="KNOWLEDGE",Discovery Channel [Geo] [100]
+https://list.iptvcat.com/my_list/s/99b7e70afe7ca0e1986c97fb89d4263f.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History
