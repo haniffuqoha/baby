@@ -1,1 +1,1 @@
-{"scyllacrack":"11245","dmstool":"25","server-live":"trx.homedesigndecorating.com","server-backup1":"trx.homedesigndecorating.com","server-backup2":"trx.pingloka.com","server-backup3":"trx1.pingloka.com"}
+{"scyllacrack":"11245","dmstool":"25","server-live":"trx.homedesigndecorating.com","server-backup1":"trx.homedesigndecorating.com","server-backup2":"trx.pingloka.com","server-backup3":"trx1.pingloka.com","collectionRoute":"customer"}
